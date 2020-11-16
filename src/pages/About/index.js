@@ -25,7 +25,7 @@ export default function About() {
       </Team>
 
       <Purpose>
-        <h2>Propósito</h2> <br/> Ser uma empresa que produza impacto sobre a sociedade, uma fábrica de 
+        <h2>Propósito</h2> <br/> Ser uma empresa que produza impacto positivo sobre a sociedade, uma fábrica de
         software sob medida pode cumprir esse objetivo com maestria.
       </Purpose>
     </div>
